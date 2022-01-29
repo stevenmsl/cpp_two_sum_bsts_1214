@@ -10,8 +10,8 @@ using namespace std;
      - so you can actually think them as two sorted vectors
        tree1 = [2,1,4] => {1,2,4} 
        tree2 = [1,0,3] => {0,1,3}
-     - so p1 (first pointer) start with "1" the 
-       smallest in tree1 while p2 (second pointer) start 
+     - so p1 (first pointer) starts with "1" the 
+       smallest in tree1 while p2 (second pointer) starts 
        with "3" the biggest in tree2
      - if the target is 5 
        - the first pair {1,3} is not a match
